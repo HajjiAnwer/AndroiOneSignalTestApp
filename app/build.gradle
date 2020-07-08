@@ -28,7 +28,7 @@ android {
         versionCode 1
         versionName "1.0"
         manifestPlaceholders = [
-                onesignal_app_id: 'PUT_YOUR_ONESIGNAL_APP_ID_HERE',
+                onesignal_app_id: '09e5bcaa-70b0-495e-8787-505d53b3852c',
                 // Project number pulled from dashboard, local value is ignored.
                 onesignal_google_project_number: 'REMOTE'
         ]
